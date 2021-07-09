@@ -211,3 +211,7 @@ ul{
 .heroes__text p{
   margin-bottom: 15px;
 }
+.copy{
+  padding: 14px 0 15px;
+  text-align: center;
+}
